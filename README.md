@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adad Al Shabab</h1>
-<h3 align="center">Machine Learning Engineer || AI Educator & Instructor🧑‍💻</h3>
+<h3 align="center">Senior Data Ops Analyst || AI Educator & Instructor🧑‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adadalshabab&label=Profile%20views&color=0e75b6&style=flat" alt="adadalshabab" /> </p>
 
-**Senior Data Analyst**. **Addicted to learn New Technologies**. Working as an Engineer for 3+ Years and Tech Instructor for past 2 years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
+**3+ years of experience**. **Addicted to learn New Technologies**. Working as an Engineer for 3+ Years and Tech Instructor for past 2 years. I am passionate about leveraging Artificial Intelligence and Data to drive business growth and improve decision-making processes. Skilled in developing and deploying advanced machine learning models, utilizing deep learning techniques, and working with big data technologies. I have a proven track record of delivering high-quality results and collaborating with cross-functional teams to bring innovative solutions to market.
 
 - 📫 How to reach me **sababadad74@gmail.com**
 - 📱 Schedule a call via Calendly: **https://calendly.com/sabab_adad/30min**
