@@ -2,9 +2,11 @@
 <h3 align="center">Senior Data Operations Analyst | Bangladeshi 🇧🇩 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adadalshabab&label=Profile%20views&color=0e75b6&style=flat" alt="adadalshabab" /> </p>
 
-**3+ years of industry experience in Data & Business Intelligence Analyst**. **Currently working as Senior Data & Operations Analyst at Commure (Augmedix Bangladesh)**. I lead Billing Rules Engine team governing $355M+ in healthcare claims across 300+ enterprise clients — owning cross-functional KPI reporting, denial root-cause analysis, stakeholder management, and process automation across Tableau, Power BI, Looker Studio, SQL, and Python.
+**3+ years of industry experience in Data & Business Intelligence Analysis**. **Currently, I work as a Senior Data & Operations Analyst at Commure (formerly Augmedix Bangladesh)**, where I work across healthcare analytics and revenue cycle management.. My work involves high-volume transaction analytics, and enterprise business intelligence, KPI reporting, business intelligence, root-cause analysis, operational analytics, process automation, and stakeholder-driven decision support using SQL, Python and BI tools.
 
-What separates my profile is the engineering layer underneath. I've built production-grade multi-agent LLM pipelines, OCR document intelligence workflows, and deployed ML models on AWS — giving me the technical fluency to identify gaps at the infrastructure level, not just the reporting layer.
+What differentiates me is the engineering layer behind my analytics work. I build LLM applications, multi-agent AI workflows, OCR and document intelligence pipelines, machine learning solutions, and AWS-based deployments—allowing me to move beyond dashboards and solve problems across the data, automation, and application stack.
+
+My core areas include Data Analytics, Business Intelligence, Analytics Engineering, SQL, Python, Machine Learning, Generative AI, LLM Applications, AI Automation, AWS, Healthcare Analytics, Revenue Cycle Management, and Fintech.
 
 - 📫 How to reach me **sababadad74@gmail.com**
 - 📱 Schedule a call via Calendly: **https://calendly.com/sabab_adad/30min**
