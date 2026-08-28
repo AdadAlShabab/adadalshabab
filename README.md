@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adad Al Shabab</h1>
-<h3 align="center">Senior Data Operations Analyst || AI Educator & Instructor🧑‍💻</h3>
+<h3 align="center">Senior Data Operations Analyst | Bangladeshi 🇧🇩 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adadalshabab&label=Profile%20views&color=0e75b6&style=flat" alt="adadalshabab" /> </p>
 
 **3+ years of industry experience in Data & Business Intelligence Analyst**. **Currently working as Senior Data & Operations Analyst at Commure (Augmedix Bangladesh)**. I lead Billing Rules Engine team governing $355M+ in healthcare claims across 300+ enterprise clients — owning cross-functional KPI reporting, denial root-cause analysis, stakeholder management, and process automation across Tableau, Power BI, Looker Studio, SQL, and Python.
