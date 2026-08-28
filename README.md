@@ -2,7 +2,7 @@
 <h3 align="center">Senior Data Analyst | Bangladeshi 🇧🇩 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adadalshabab&label=Profile%20views&color=0e75b6&style=flat" alt="adadalshabab" /> </p>
 
-**3+ years of industry experience in Data & Business Intelligence Analysis** **Currently, I work as a Senior Data & Operations Analyst at Commure (formerly Augmedix Bangladesh)**, applying deep expertise in Techical Project Management and Agentic Systems. 4+ years shipping enterprise-grade AI solutions, my work involves high-volume transaction analytics, and enterprise business intelligence, nKPI reporting, business intelligence, root-cause analysis, operational analytics, process automation, and stakeholder-driven decision support using SQL, Python and BI tools.
+**3+ years of industry experience in Data & Business Intelligence Analysis** **Currently, I work as a Senior Data & Operations Analyst at Commure (formerly Augmedix Bangladesh)**, applying deep expertise in Techical Project Management and Agentic Systems. 4+ years shipping enterprise-grade AI solutions, my work involves high-volume transaction analytics, and enterprise business intelligence, KPI reporting, business intelligence, root-cause analysis, operational analytics, process automation, and stakeholder-driven decision support using SQL, Python and BI tools.
 
 What differentiates me is the engineering layer behind my analytics work. I build LLM applications, multi-agent AI workflows, OCR and document intelligence pipelines, machine learning solutions, and Team building me to move beyond dashboards and solve problems across the data, automation, and application stack.
 
